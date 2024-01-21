@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fiorenzo Colarusso"
   avatar           : "profile.jpg"
-  bio              : "Cognitive Science \n and HCI Reseacher"
+  bio              : "Reseacher, Dreamer, Traveller"
   location         : "Brighton,UK"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "fiorenzocolarusso@hotmail.it"
   researchgate     : "https://www.researchgate.net/profile/Fiorenzo-Colarusso"
   uri              :
   bitbucket        :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  teaching: 
     output: true
     permalink: /:collection/:path/
   publications:
@@ -210,7 +210,7 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
+  - scope: 
       path: ""
       type: teaching
     values:
