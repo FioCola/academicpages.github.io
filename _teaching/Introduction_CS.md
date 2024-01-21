@@ -1,10 +1,11 @@
 ---
 title: "Introduction to Cognitive Science: Minds, Machines and Consciousness "
 collection: teaching
-type: "Undergraduate course"
-permalink: ""
+type: ""
+permalink:
 venue: "University of Sussex, School of Engineering and Informatics"
-date: 2022-09-09
+type: "2022-2024"
+date: 
 location: "Brighton, UK"
 ---
 
