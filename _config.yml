@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Fiorenzo Coladdddrusso"
+name                     : &name "Fiorenzo Colarusso"
 description              : &description "personal description"
 url                      : https://fiocola.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fiorenzo Colarusso"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Cognitive Science and HCI"
+  bio              : "Cognitive Science and HCI Reseacher"
   location         : "Brighton,UK"
   employer         :
   pubmed           : 
