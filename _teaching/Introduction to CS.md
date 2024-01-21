@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "University of Sussex, School of Engineering and Informatics"
-date: 2022-09-09
+date: "2022-2024"
 location: "Brighton, UK"
 ---
 
