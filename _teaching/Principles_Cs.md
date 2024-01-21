@@ -1,8 +1,8 @@
 ---
 title: "Principles in Cognitive Science"
-collection: teaching
+#collection: teaching
 type: "Undergraduate course"
-permalink: ""
+#permalink:
 venue: "University of Sussex, School of Engineering and Informatics"
 type: "2022-2024"
 #date: 
